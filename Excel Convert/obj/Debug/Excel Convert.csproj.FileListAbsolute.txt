@@ -1,0 +1,7 @@
+C:\Users\ahmet\source\repos\Excel Convert\Excel Convert\bin\Debug\Excel Convert.exe.config
+C:\Users\ahmet\source\repos\Excel Convert\Excel Convert\bin\Debug\Excel Convert.exe
+C:\Users\ahmet\source\repos\Excel Convert\Excel Convert\bin\Debug\Excel Convert.pdb
+C:\Users\ahmet\source\repos\Excel Convert\Excel Convert\obj\Debug\Excel Convert.csproj.AssemblyReference.cache
+C:\Users\ahmet\source\repos\Excel Convert\Excel Convert\obj\Debug\Excel Convert.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\source\repos\Excel Convert\Excel Convert\obj\Debug\Excel Convert.exe
+C:\Users\ahmet\source\repos\Excel Convert\Excel Convert\obj\Debug\Excel Convert.pdb
